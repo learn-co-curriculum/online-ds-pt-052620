@@ -1,4 +1,5 @@
 <!--- Calendar iframe goes below --->
+<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_nmuuv9qmvss38luac0gvnch44g%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <details>
 <summary style="font-weight:bold;">Getting Started Videos</summary>
@@ -67,7 +68,7 @@ git push
 
 <!--- Pair Programming Section --->
 ## Pair Programming Partners
-You need a zoom account or you can use slack video
+This section will be filled out when we get into pair programming. 
 
 Procedures:
 * Person 1 is always host
@@ -91,15 +92,19 @@ Procedures:
 <!--- Resources Section --->
 
 ## Resources 
-[**1 on 1s with instructor-name-here - Instructor**](you_1on1_link_here)
+[**1 on 1s with instructor-name-here - Instructor**](https://go.oncehub.com/AmberOfficeHours)
 
-[**1 on 1s with edcoach-name-here - Education Coach**](edcoach_schedule_once_link_goes_here)
+[**1 on 1s with edcoach-name-here - Education Coach**](https://darapaoletti.youcanbook.me)
 
-[**About Me Survey** Please take this on Day 1](https://forms.gle/SJWWi5WJQsGRBitSA)
+[**About Me Survey** Please take this Prior to Day 1](https://forms.gle/SJWWi5WJQsGRBitSA)
 
 [**Student Services Email** - studentservices@flatironschool.com](mailto:studentservices@flatironschool.com)
 
 [**Video Recording Spreadsheet Link**](https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=0)
+
+[**Code Cheat Sheets**](https://drive.google.com/file/d/1_GC4Q672T2H3LuvThj9KusJvFBeQP4Oj/view?usp=sharing)
+
+[**Study Group Github Repo**](https://github.com/Amberlynnyandow/study-group-content)
 
 
 <!--- Video Resources --->
@@ -112,9 +117,7 @@ Procedures:
 
 
 ## Study Group Recordings
-|Lesson| url | Date of Study Group | Github Repo |
-|------|-----| ---- | --- |
-| | | | |
+
 
 
 ## Welcome Week Recordings
@@ -127,15 +130,7 @@ Procedures:
 |Day 5 - Stress Less | |
 
 <!----- Below are all of the Mod Project Rubrics in a tablel--->
-## Project Rubrics + Video Explanation
 
-|Rubric | Video |
-|-------|-------|
-|[Mod 1](https://drive.google.com/file/d/1trk8eamU3uLpsgdmEjt5x-zKg3kFuOja/view?usp=sharing)| |
-|[Mod 3](https://drive.google.com/file/d/134VfqsXIpjBvQ01hEjeB2gD7at0Wex7W/view?usp=sharing)| |
-|[Mod 4](https://drive.google.com/file/d/1VJD5UKapqpM0XHK3Sz6-2Gn5Gb65R1xm/view?usp=sharing)| |
-|[Mod 5](https://drive.google.com/file/d/1QKA5Yt6hALy8BXkVbocHCdPkF_TdIwWm/view?usp=sharing)| |
-|[Capstone](https://drive.google.com/file/d/1smaVWyLLoRVg9yeMWAq0dLqQhbVQDFv2/view?usp=sharing)| |
 
 ## Program Guide
 [Click here](https://help.learn.co/online-immersive-bootcamps/what-if-i-cant-keep-up-with-my-cohort)
