@@ -21,7 +21,7 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
 # CheatSheets
 <details>
   <summary>Terminal Cheatsheet</summary>
- <img src="https://github.com/learn-co-curriculum/online-ds-ft-030220/blob/master/terminal-cheatsheet.jpg?raw=true"/>
+ <img src="https://raw.githubusercontent.com/learn-co-curriculum/online-ds-ft-030220/master/terminal-cheatsheet.jpg?token=AK7GP7FKCM4XM6C5KXZRNAS62Z7YU"/>
 </details>
 
 <details>
@@ -31,7 +31,7 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
 
 <details>
   <summary>markdown Cheatsheet</summary>
-  <img src="https://github.com/learn-co-curriculum/online-ds-ft-030220/blob/master/markdown-cheatsheet.jpg?raw=true"/>
+  <img src="https://raw.githubusercontent.com/learn-co-curriculum/online-ds-ft-030220/master/markdown-cheatsheet.jpg?token=AK7GP7A7BFJDN3WFV6GMPSC62Z736"/>
 </details>
 
 
@@ -102,7 +102,7 @@ Procedures:
 
 [**Video Recording Spreadsheet Link**](https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=0)
 
-[**Code Cheat Sheets**](https://drive.google.com/file/d/1_GC4Q672T2H3LuvThj9KusJvFBeQP4Oj/view?usp=sharing)
+[**More Code Cheat Sheets**](https://drive.google.com/file/d/1_GC4Q672T2H3LuvThj9KusJvFBeQP4Oj/view?usp=sharing)
 
 [**Study Group Github Repo**](https://github.com/Amberlynnyandow/study-group-content)
 
