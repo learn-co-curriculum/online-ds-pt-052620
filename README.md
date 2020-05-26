@@ -21,17 +21,17 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
 # CheatSheets
 <details>
   <summary>Terminal Cheatsheet</summary>
- <img src="terminal-cheatsheet.jpg"/>
+ <img src="https://github.com/learn-co-curriculum/online-ds-ft-030220/blob/master/terminal-cheatsheet.jpg?raw=true"/>
 </details>
 
 <details>
   <summary>Git Cheatsheet</summary>
-  <img src="git-cheatsheet-6.jpg"/>
+  <img src="https://raw.githubusercontent.com/learn-co-curriculum/online-ds-pt-052620/master/git-cheatsheet-6.jpg"/>
 </details>
 
 <details>
   <summary>markdown Cheatsheet</summary>
-  <img src="markdown-cheatsheet.jpg"/>
+  <img src="https://github.com/learn-co-curriculum/online-ds-ft-030220/blob/master/markdown-cheatsheet.jpg?raw=true"/>
 </details>
 
 
