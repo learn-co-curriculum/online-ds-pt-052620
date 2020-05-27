@@ -92,11 +92,11 @@ Procedures:
 <!--- Resources Section --->
 
 ## Resources 
-[**1 on 1s with instructor-name-here - Instructor**](https://go.oncehub.com/AmberOfficeHours)
+[**1 on 1s with instructor-Amber Yandow**](https://go.oncehub.com/AmberOfficeHours)
 
-[**1 on 1s with edcoach-name-here - Education Coach**](https://darapaoletti.youcanbook.me)
+[**1 on 1s with edcoach-Dara Paoletti**](https://darapaoletti.youcanbook.me)
 
-[**About Me Survey** Please take this Prior to Day 1](https://forms.gle/SJWWi5WJQsGRBitSA)
+[**About Me Survey** - Please take this Prior to Day 1](https://forms.gle/SJWWi5WJQsGRBitSA)
 
 [**Student Services Email** - studentservices@flatironschool.com](mailto:studentservices@flatironschool.com)
 
@@ -117,14 +117,14 @@ Procedures:
 
 
 ## Study Group Recordings
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvvNnx_KheDpWnW5LHxuPoD5lm1g1ODeG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 ## Welcome Week Recordings
 | Event | recording url |
 |-------|---------------|
-|Day 1 - Orientation | |
-|Day 2 - Meet Your Classmates| |
+|Day 1 - Orientation | https://www.youtube.com/watch?v=ObgRjirqb5E |
 |Day 3 - Community Talk | |
 |Day 4 - Hi From Career Services| |
 |Day 5 - Stress Less | |
