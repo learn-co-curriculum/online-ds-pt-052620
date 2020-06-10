@@ -50,6 +50,28 @@ git commit -m "your message here"
 git push
 ```
 
+**Installing and activating Jupyter Notebook Extensions** 
+
+In your terminal enter the following commands:
+
+>conda install -c conda-forge jupyter_contrib_nbextensions
+>jupyter nbextension enable jupyter_nbextensions_configurator
+
+When you boot up jupyter notebook, click on the new tab called nbextensions on the jupyter notebook home page and check out the list of available extensions.
+
+If the list of available notebook extensions is grayed out:
+
+>Uncheck "disable configuration for nbextensions without explicit compatibility (they may break your notebook environment, but can be useful to show for nbextension development)" at the top of the page.
+
+Recommended extensions to turn on:
+
+- Variable Inspector: Lets you see details about all of the variables in your notebook.
+- Table of Contents (2): Clickable sidebar with markdown headers as bookmarks/links.
+- Collapsible Headings: Collapse sections of your notebook using markdown headers.
+- Codefolding: Lets you collapse function definitions and blocks of code.
+- Execute time: Outputs the time after running each cell
+
+
 <details>
 <summary style="font-weight:bold;">Common Terminal Commands</summary>
 
