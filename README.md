@@ -89,24 +89,17 @@ Recommended extensions to turn on:
 
 
 <!--- Pair Programming Section --->
-## Pair Programming Partners
-This section will be filled out when we get into pair programming. 
+## Module 1 Project Groups 
 
-Procedures:
-* Person 1 is always host
-* Person 1 always fills out form
-* Do the section project (unless discussed with partner(s))
-* For now: Person 1 drives, other people steer
 
-| Section Number| Person 1 (host) | Person 2 | Person 3|
-| --------------| ----------------| ---------| --------|
-|3-4|student4|student1|None|
-|3-4|student2|student5|None|
-|3-4|student6|student3|None|
+| Group| Project Manager | Group Members  | 
+| --------------| ----------------| ---------|
+|1| Connor Pate |Jessica Yoon, Nick Catalano|
+|2| Christine Egan |Joe Sanders, Lavender Zhang|
+|3| Sachin Naik |Amar Kuppannan, Thomas Cornett|
 |||||
-|5-6|student6|student3|None|
-|5-6|student4|student1|None|
-|5-6|student2|student5|None|
+|4| Jeremy Lee |Brendan Hagan, Derek Davis, Alaska Lam|
+|5| Simran Nepaul |Zach Paul, Pascal Fiorentino|
 |||||
 
 <!--- paste pair programming table above --->
