@@ -89,14 +89,14 @@ Recommended extensions to turn on:
 
 
 <!--- Pair Programming Section --->
-## Module 1 Project Groups 
+## Module 2 Project Groups 
 
 
 | Group| Project Manager | Group Members  | 
 | --------------| ----------------| ---------|
-|1| Lavender Zhang |Connor Pate,Thomas Cornett|
+|1| Lavender Zhang |Connor Pate, Thomas Cornett|
 |2| Derek Davis |Joe Sanders, Attila Gogos|
-|3| Nick Catalano |Alaska Lam,  Zach Paul|
+|3| Nick Catalano |Alaska Lam, Zach Paul|
 |4| Amar Kuppannan |Christine Egan, Simran Nepaul|
 |5| Jessica Yoon |Jeremy Lee, Sachin Naik|
 |||||
