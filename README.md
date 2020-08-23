@@ -94,12 +94,11 @@ Recommended extensions to turn on:
 
 | Group| Project Manager | Group Members  | 
 | --------------| ----------------| ---------|
-|1| Connor Pate |Jessica Yoon, Nick Catalano|
-|2| Christine Egan |Joe Sanders, Lavender Zhang|
-|3| Sachin Naik |Amar Kuppannan, Thomas Cornett|
-|||||
-|4| Jeremy Lee |Brendan Hagan, Derek Davis, Alaska Lam|
-|5| Simran Nepaul |Zach Paul, Pascal Fiorentino|
+|1| Lavender Zhang |Connor Pate,Thomas Cornett|
+|2| Derek Davis |Joe Sanders, Attila Gogos|
+|3| Nick Catalano |Alaska Lam,  Zach Paul|
+|4| Amar Kuppannan |Christine Egan, Simran Nepaul|
+|5| Jessica Yoon |Jeremy Lee, Sachin Naik|
 |||||
 
 <!--- paste pair programming table above --->
