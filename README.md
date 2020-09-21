@@ -1,6 +1,5 @@
 <!--- Calendar iframe goes below --->
-<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_nmuuv9qmvss38luac0gvnch44g%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=Y185amVuMm5samJwbnFqOGhmaDJsaGgwZ2lzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX25tdXV2OXFtdnNzMzhsdWFjMGd2bmNoNDRnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=Y18xNWRqa2tpZzNsbWltY29nYTlzbmNpaW1lNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX241aDBmbHNkOGY0aWU1NzNtZnY2bTg1cm4wQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;color=%23EF6C00&amp;color=%23E67C73&amp;color=%23009688&amp;showTitle=0&amp;showPrint=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <details>
 <summary style="font-weight:bold;">Getting Started Videos</summary>
   
