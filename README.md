@@ -105,7 +105,7 @@ Recommended extensions to turn on:
 <!--- Resources Section --->
 
 ## Resources 
-[**Schedule Mod2 Project Presentations with Instructor - Amber**](https://go.oncehub.com/FinalProjectReviews)
+[**Schedule 1:1s with Cohort Lead - Amber**](https://go.oncehub.com/AmberOfficeHours)
 
 [**1 on 1s with edcoach-Dara Paoletti**](https://darapaoletti.youcanbook.me)
 
