@@ -17,22 +17,6 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
 
 </details>
 
-# CheatSheets
-<details>
-  <summary>Terminal Cheatsheet</summary>
- <img src="https://raw.githubusercontent.com/learn-co-curriculum/online-ds-ft-030220/master/terminal-cheatsheet.jpg?token=AK7GP7FKCM4XM6C5KXZRNAS62Z7YU"/>
-</details>
-
-<details>
-  <summary>Git Cheatsheet</summary>
-  <img src="https://raw.githubusercontent.com/learn-co-curriculum/online-ds-pt-052620/master/git-cheatsheet-6.jpg"/>
-</details>
-
-<details>
-  <summary>markdown Cheatsheet</summary>
-  <img src="https://raw.githubusercontent.com/learn-co-curriculum/online-ds-ft-030220/master/markdown-cheatsheet.jpg?token=AK7GP7A7BFJDN3WFV6GMPSC62Z736"/>
-</details>
-
 
 
 ## Common Commands
@@ -88,16 +72,16 @@ Recommended extensions to turn on:
 
 
 <!--- Pair Programming Section --->
-## Module 2 Project Groups 
+## Module 4 Project Groups 
 
 
 | Group| Project Manager | Group Members  | 
 | --------------| ----------------| ---------|
-|1| Lavender Zhang |Connor Pate, Thomas Cornett|
-|2| Derek Davis |Joe Sanders, Attila Gogos|
-|3| Nick Catalano |Alaska Lam, Zach Paul|
-|4| Amar Kuppannan |Christine Egan, Simran Nepaul|
-|5| Jessica Yoon |Jeremy Lee, Sachin Naik|
+|1| |
+|2||
+|3||
+|4| |
+|5| |
 |||||
 
 <!--- paste pair programming table above --->
@@ -133,14 +117,6 @@ Recommended extensions to turn on:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvvNnx_KheDpWnW5LHxuPoD5lm1g1ODeG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-## Welcome Week Recordings
-| Event | recording url |
-|-------|---------------|
-|Day 1 - Orientation | https://www.youtube.com/watch?v=ObgRjirqb5E |
-|Day 3 - Community Talk | |
-|Day 4 - Hi From Career Services| |
-|Day 5 - Stress Less | |
 
 <!----- Below are all of the Mod Project Rubrics in a tablel--->
 
